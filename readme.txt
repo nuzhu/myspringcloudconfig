@@ -1,0 +1,2 @@
+myspringcloudconfig
+config-server
